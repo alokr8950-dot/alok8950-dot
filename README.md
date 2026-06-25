@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alok Raj</h1>
 
 <h3 align="center">
-☕ Java Backend Developer | Spring Boot | MERN Stack | React.js | Node.js | MongoDB
+🚀 Full Stack MERN Developer | React.js | Node.js | Express.js | MongoDB
 </h3>
 
 <p align="center">
-Building scalable web applications and continuously improving my Backend Development & Problem Solving skills.
+Passionate about building scalable web applications and solving real-world problems through clean and efficient code.
 </p>
 
 ---
@@ -13,12 +13,12 @@ Building scalable web applications and continuously improving my Backend Develop
 # 🚀 About Me
 
 - 🎓 MCA Student
-- ☕ Java Backend Developer
-- 🌱 Currently Learning **Spring Boot, Microservices & System Design**
+- 💻 Full Stack MERN Developer
+- 🌱 Currently Learning Advanced Backend & System Design
 - 🚖 Currently Building **Move Easy (Uber Clone)**
-- 💻 Passionate about Backend Development
-- 🧠 Solving DSA Problems Regularly
-- 📧 Email: **alokr8950@gmail.com**
+- 🧠 Passionate about Data Structures & Algorithms
+- 🚀 Open to Internship & Full-Time Opportunities
+- 📧 **Email:** alokr8950@gmail.com
 
 ---
 
@@ -43,7 +43,7 @@ Building scalable web applications and continuously improving my Backend Develop
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,javascript" />
+<img src="https://skillicons.dev/icons?i=javascript" />
 </p>
 
 ### Frontend
@@ -55,19 +55,19 @@ Building scalable web applications and continuously improving my Backend Develop
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
@@ -108,7 +108,7 @@ A Full Stack Ride Booking Application inspired by Uber.
 
 ---
 
-# 📊 Activity Graph
+# 📊 GitHub Activity
 
 <p align="center">
 
@@ -120,18 +120,16 @@ A Full Stack Ride Booking Application inspired by Uber.
 
 # 🎯 Current Focus
 
-- ☕ Spring Boot
-- 🏗 Backend Development
-- 🔥 Microservices
-- 📚 System Design
-- 🧠 DSA & Problem Solving
-- 🚀 Open to Internship & Full-Time Opportunities
+- 🚀 Building Full Stack MERN Applications
+- 📚 Learning Backend Architecture
+- 🧠 Improving DSA & Problem Solving
+- ⚡ Exploring Modern Web Technologies
 
 ---
 
 # 👀 Profile Views
 
-<p align="left">
+<p>
 
 <img src="https://komarev.com/ghpvc/?username=alokr8950-dot&label=Profile%20Views&color=0e75b6&style=flat"/>
 
@@ -140,5 +138,7 @@ A Full Stack Ride Booking Application inspired by Uber.
 ---
 
 <h3 align="center">
+
 ⭐ Thanks for visiting my profile! ⭐
+
 </h3>
