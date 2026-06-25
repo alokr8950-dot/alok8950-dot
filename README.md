@@ -1,28 +1,31 @@
 <h1 align="center">Hi 👋, I'm Alok Raj</h1>
 
-<h3 align="center">🚀 Full Stack MERN Developer | React.js | Node.js | Express.js | MongoDB | DSA Enthusiast</h3>
+<h3 align="center">
+☕ Java Backend Developer | Spring Boot | MERN Stack | React.js | Node.js | MongoDB
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+MongoDB;Passionate+Problem+Solver;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
+Building scalable web applications and continuously improving my Backend Development & Problem Solving skills.
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎓 MCA Student
-- 💻 Passionate Full Stack MERN Developer
-- 🌱 Currently Learning Advanced Backend & System Design
-- 🧠 Passionate about Data Structures & Algorithms
-- 🚀 Building Scalable Web Applications
-- 🎯 Aspiring Software Engineer
-- 📫 Email: **your-email@gmail.com**
+- ☕ Java Backend Developer
+- 🌱 Currently Learning **Spring Boot, Microservices & System Design**
+- 🚖 Currently Building **Move Easy (Uber Clone)**
+- 💻 Passionate about Backend Development
+- 🧠 Solving DSA Problems Regularly
+- 📧 Email: **alokr8950@gmail.com**
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/alok-raj-931a76315/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -30,6 +33,7 @@
 <a href="https://leetcode.com/u/alok8950/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
+
 </p>
 
 ---
@@ -39,7 +43,7 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,cpp" />
+<img src="https://skillicons.dev/icons?i=java,javascript" />
 </p>
 
 ### Frontend
@@ -51,87 +55,76 @@
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🚖 Featured Project
 
-## 📌 Taskify
+## 🚖 Move Easy
 
-📝 MERN Stack Task Management Application
-
-### Features
-
-- JWT Authentication
-- CRUD Operations
-- Responsive UI
-- MongoDB Database
-
----
-
-## 🔐 MERN Authentication
-
-Secure Authentication System
+A Full Stack Ride Booking Application inspired by Uber.
 
 ### Features
 
-- Login & Signup
-- JWT Authentication
-- Password Encryption (bcrypt)
-- Protected Routes
+- 🔐 User Authentication
+- 🚗 Captain Authentication
+- 📍 Live Location Tracking
+- 🗺 Google Maps Integration
+- ⚡ Real-Time Ride Updates
+- 🔑 JWT Authentication
+- 📱 Responsive UI
 
 ---
 
-## ⚔️ GOT React Project
-
-Game of Thrones Inspired Website
-
-### Features
-
-- React.js
-- GSAP Animation
-- Responsive Design
-- Modern UI
-
----
-
-# 📊 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alok8950-dot&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alokr8950-dot&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=alok8950-dot&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=alokr8950-dot&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alok8950-dot&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokr8950-dot&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Current Focus
+# 📊 Activity Graph
 
-- 🔥 Building Full Stack MERN Applications
-- 📚 Learning System Design
-- 💡 Improving Problem Solving Skills
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alokr8950-dot&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- ☕ Spring Boot
+- 🏗 Backend Development
+- 🔥 Microservices
+- 📚 System Design
+- 🧠 DSA & Problem Solving
 - 🚀 Open to Internship & Full-Time Opportunities
 
 ---
@@ -139,7 +132,9 @@ Game of Thrones Inspired Website
 # 👀 Profile Views
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=alok8950-dot&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+<img src="https://komarev.com/ghpvc/?username=alokr8950-dot&label=Profile%20Views&color=0e75b6&style=flat"/>
+
 </p>
 
 ---
